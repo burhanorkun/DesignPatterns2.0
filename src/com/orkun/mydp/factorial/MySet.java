@@ -1,4 +1,4 @@
-package com.orkun.factorial;
+package com.orkun.mydp.factorial;
 
 public class MySet {
 
